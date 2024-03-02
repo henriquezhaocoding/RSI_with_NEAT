@@ -1,1 +1,1 @@
-"# RSI_with_NEAT" 
+The purpose of this project is to use NEAT (NeuroEvolution of Augmenting Topologies), a genetic algorithm (GA) for the generation of evolving artificial neural networks to test whether price information, moving averages, and RSI (a technical analysis indicator) can create positive returns in sample stock data.
